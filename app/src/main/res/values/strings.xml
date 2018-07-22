@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RingtoneDialog</string>
+    <string name="play_ringtone">Play ringtone</string>
+    <string name="settings">Settings</string>
+</resources>
